@@ -22,4 +22,4 @@
 ![](Snapshots/Sports.png)
 
 
-### All the headlines Chnages daily.
+### All the headlines Changes daily.
